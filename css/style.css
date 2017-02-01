@@ -1,0 +1,12 @@
+body {
+    background-color: #1a1a1a;
+    color: #e6e6e6;
+}
+
+.header h1 {
+    font-size: 70px;
+}
+
+.units {
+    color: #0000ff;
+}
