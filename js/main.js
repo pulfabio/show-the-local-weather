@@ -1,7 +1,7 @@
 //Helper function that consumes weather APIs
 function getWeatherData(lat, lon) {
     //API key
-    var key = "5bef4f9d1bda594aa4e096338d5f39d1";
+    var key = "<your-key-here";
 
     //API url
     apiUrl = "http://api.openweathermap.org/data/2.5/weather?";
